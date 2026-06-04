@@ -73,7 +73,7 @@ The project can also be used as a test platform for evaluating:
 - Analog-digital integration strategies
 - PCB layout methodologies for mixed-signal systems
 
-=========================================================================================================
+=====================================================================================================
 
 # Aplicaciones Típicas
 
