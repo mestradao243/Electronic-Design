@@ -45,7 +45,7 @@ The purpose of this repository is to:
 - Python
 - Visual Studio Code
 
-# ===========================================
+# =====================================
 
 # Diseño Electrónico y Desarrollo de PCB
 
