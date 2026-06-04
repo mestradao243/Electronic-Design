@@ -8,7 +8,6 @@ Contents may include:
 - **Power Tree Diagrams** – Power distribution architecture and voltage regulation hierarchy.
 - **Firmware Flowcharts** – Control logic, state machines, and software execution flow.
 - **Circuit Schematics** – Electrical schematics of the analog, digital, and power subsystems.
-- **System Architecture Diagrams** – Overall hardware organization and signal flow.
 
 These diagrams serve as the primary reference for system analysis, PCB design, debugging, validation, and future development.
 
@@ -22,6 +21,5 @@ El contenido puede incluir:
 - **Power Trees** – Arquitectura de distribución de potencia y jerarquía de regulación de voltaje.
 - **Diagramas de Flujo de Firmware** – Lógica de control, máquinas de estados y flujo de ejecución del software.
 - **Esquemáticos del Circuito** – Diagramas eléctricos de los subsistemas analógicos, digitales y de alimentación.
-- **Diagramas de Arquitectura del Sistema** – Organización general del hardware y flujo de señales.
 
 Estos diagramas constituyen la referencia principal para el análisis del sistema, diseño de PCB, depuración, validación y futuras mejoras del proyecto.
