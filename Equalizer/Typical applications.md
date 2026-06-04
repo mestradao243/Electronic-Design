@@ -22,28 +22,6 @@ Typical uses include:
 - Tone control systems
 - Home audio experimentation
 
-## Educational Platform
-
-The project serves as a complete educational example that integrates multiple areas of electronic engineering:
-
-- Analog circuit design
-- Active filter design
-- Operational amplifier applications
-- Embedded systems
-- Analog-to-digital conversion
-- PCB design
-- Power distribution design
-- Human-machine interfaces
-
-It can be used as a teaching platform for courses related to:
-
-- Electronic Design
-- Analog Electronics
-- Embedded Systems
-- Signal Processing
-- Instrumentation
-- PCB Design
-
 ## Real-Time Monitoring Systems
 
 The STM32-based monitoring subsystem provides real-time visualization of system parameters, making the design useful as a demonstration platform for:
@@ -98,28 +76,6 @@ Algunas aplicaciones incluyen:
 - Personalización de sistemas de audio.
 - Control tonal en equipos de sonido.
 - Experimentación con procesamiento de audio.
-
-## Plataforma Educativa
-
-El proyecto constituye un ejemplo completo de integración de múltiples áreas de la ingeniería electrónica:
-
-- Diseño de circuitos analógicos.
-- Diseño de filtros activos.
-- Aplicaciones de amplificadores operacionales.
-- Sistemas embebidos.
-- Conversión analógico-digital.
-- Diseño de PCB.
-- Distribución de potencia.
-- Interfaces hombre-máquina.
-
-Puede emplearse como herramienta de aprendizaje en asignaturas relacionadas con:
-
-- Diseño Electrónico.
-- Electrónica Analógica.
-- Sistemas Embebidos.
-- Procesamiento de Señales.
-- Instrumentación Electrónica.
-- Diseño de PCB.
 
 ## Sistemas de Monitoreo en Tiempo Real
 
