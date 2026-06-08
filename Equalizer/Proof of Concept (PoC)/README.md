@@ -1,4 +1,4 @@
-# 5-Band Audio Equalizer + Variable High-Pass Filter (Proof of Concept)
+# Audio Equalizer + High-Pass Filter (Proof of Concept)
 
 ## Overview
 
