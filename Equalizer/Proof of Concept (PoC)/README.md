@@ -116,7 +116,7 @@ These results provided sufficient confidence to proceed with the PCB design stag
 
 ---
 
-# Ecualizador de Audio de 5 Bandas + Filtro Pasa Altas Variable (Prueba de Concepto)
+# Ecualizador de Audio + Filtro Pasa Altas (Prueba de Concepto)
 
 ## Descripción General
 
