@@ -45,8 +45,6 @@ The purpose of this repository is to:
 - Python
 - Visual Studio Code
 
-# =====================================
-
 # Diseño Electrónico y Desarrollo de PCB
 
 Repositorio dedicado al diseño y desarrollo de productos electrónicos, con énfasis en el diseño esquemático, layout de PCB y documentación técnica utilizando herramientas como Altium Designer y KiCad.
