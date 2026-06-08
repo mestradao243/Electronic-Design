@@ -116,27 +116,6 @@ These results provided sufficient confidence to proceed with the PCB design stag
 
 ---
 
-## Development Flow
-
-Filter Design
-      │
-      ▼
-Circuit Simulation
-      │
-      ▼
-Breadboard Prototype
-      │
-      ▼
-Bode Analysis (Analog Discovery)
-      │
-      ▼
-Design Validation
-      │
-      ▼
-PCB Development
-
----
-
 # Ecualizador de Audio de 5 Bandas + Filtro Pasa Altas Variable (Prueba de Concepto)
 
 ## Descripción General
