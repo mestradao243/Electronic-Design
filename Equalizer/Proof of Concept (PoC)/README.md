@@ -271,6 +271,8 @@ Diseño de PCB
 - Generador de señales AC.
 - Digilent Analog Discovery.
 
+## Video de prototipo en protoboard: https://youtube.com/shorts/r5PUVqsEj8Q?si=iJrxbWdDjIqb6ouO
+
 ---
 
 ## Propósito de Esta Carpeta
