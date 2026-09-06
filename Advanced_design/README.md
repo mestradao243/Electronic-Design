@@ -17,46 +17,6 @@ El objetivo principal es establecer una metodología para el diseño, análisis 
 * Estudiar el impacto de la incorporación de capas adicionales sobre el rendimiento y la complejidad del sistema.
 * Validar las configuraciones propuestas mediante simulaciones y resultados experimentales.
 
-### Arquitectura
-
-El diseño propuesto extiende la arquitectura OCB convencional de dos capas mediante la incorporación de niveles adicionales. Esta estructura permite estudiar configuraciones multicapa manteniendo una organización modular y escalable.
-
-```text
-Layer N
-   │
-   ├── Interconnection
-   │
-Layer N-1
-   │
-   ├── Interconnection
-   │
-   ...
-   │
-Layer 2
-   │
-   ├── Interconnection
-   │
-Layer 1
-```
-
-### Estructura del repositorio
-
-```text
-.
-├── README.md
-├── docs/
-├── src/
-├── examples/
-├── simulations/
-└── results/
-```
-
-### Estado del proyecto
-
-El proyecto se encuentra actualmente en desarrollo. Las diferentes configuraciones, simulaciones y resultados se incorporarán progresivamente.
-
----
-
 ## English
 
 ### Description
@@ -73,41 +33,6 @@ The main objective is to establish a methodology for the design, analysis, and v
 * Evaluate the scalability of the architecture.
 * Study the impact of additional layers on system performance and complexity.
 * Validate the proposed configurations through simulations and experimental results.
-
-### Architecture
-
-The proposed design extends the conventional two-layer OCB architecture by introducing additional levels. This structure enables the study of multilayer configurations while maintaining a modular and scalable organization.
-
-```text
-Layer N
-   │
-   ├── Interconnection
-   │
-Layer N-1
-   │
-   ├── Interconnection
-   │
-   ...
-   │
-Layer 2
-   │
-   ├── Interconnection
-   │
-Layer 1
-```
-
-### Repository Structure
-
-```text
-.
-├── README.md
-├── docs/
-├── src/
-├── examples/
-├── simulations/
-└── results/
-```
-
 ### Project Status
 
-The project is currently under development. Different configurations, simulations, and results will be progressively incorporated.
+The project is currently under development. Different configurations, simulations, and 
